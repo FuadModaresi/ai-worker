@@ -12,7 +12,7 @@ export const renderer = jsxRenderer(({ children }) => (
     <body>
       <header>
         <h1>AI Workers</h1>
-        <p>powerd by fuad MD</p>
+        <p>Fuad MD</p>
       </header>
       <div>{children}</div>
     </body>
